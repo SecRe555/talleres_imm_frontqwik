@@ -1,0 +1,1 @@
+import{m as e,v as t,_ as i}from"./q-b064d7f7.js";const r=e(t(()=>i(()=>import("./q-ac84c6d2.js"),["build/q-ac84c6d2.js","build/q-6ee1295b.js","build/q-b064d7f7.js","build/q-264a4bdb.js"]),"s_zeCepMrPLvs")),o={title:"Inscribir persona",meta:[{name:"description",content:"Descripción"}]};export{r as default,o as head};

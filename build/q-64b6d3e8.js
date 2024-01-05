@@ -1,0 +1,1 @@
+import{m as e,w as t,v as s,_ as o}from"./q-b064d7f7.js";import{H as a}from"./q-264a4bdb.js";const d=a(t("s_dNTaUjEf6gI")),m=e(s(()=>o(()=>import("./q-1ea265a6.js"),["build/q-1ea265a6.js","build/q-b064d7f7.js"]),"s_ZBMmYoZsCXU")),n={title:"Gestión de talleres IMM",meta:[{name:"description",content:"Qwik site description"}]};export{m as default,n as head,d as useEmpleadoDatos};

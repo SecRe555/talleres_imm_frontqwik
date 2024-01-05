@@ -1,0 +1,1 @@
+import{_auto_manejoAlertas as e}from"./q-fb571994.js";import"./q-b064d7f7.js";const n=a=>{const r=a.target;r.value.length===0?e("recuperarContrasena",!0,"*Campo requerido"):r.value.length<6?e("recuperarContrasena",!0,"*La contraseña debe ser minimo de 6 caracteres"):e("recuperarContrasena",!1)};export{n as s_ghgR8HUkvSY};

@@ -1,0 +1,1 @@
+import{C as l,S as u}from"./q-b064d7f7.js";const a=e=>e.elegido?l("option",null,{selected:!0,value:u(t=>t.value,[e])},e.mes,1,"tv_0"):l("option",null,{value:u(t=>t.value,[e])},e.mes,1,"tv_1");export{a as s_kJMLAui7wBk};

@@ -1,0 +1,1 @@
+import{m as e,v as i,_ as t}from"./q-b064d7f7.js";const a=e(i(()=>t(()=>import("./q-1b2594ae.js"),["build/q-1b2594ae.js","build/q-b064d7f7.js","build/q-08fa0926.js","build/q-31b3c776.js","build/q-264a4bdb.js"]),"s_JcAXYjuAY7M")),n={title:"Iniciar sesión",meta:[{name:"description",content:"Descripción"}]};export{a as default,n as head};

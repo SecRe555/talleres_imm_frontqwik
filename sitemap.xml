@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://yoursite.qwik.dev/login/</loc></url>
+<url><loc>https://yoursite.qwik.dev/toma_asistencia/</loc></url>
+<url><loc>https://yoursite.qwik.dev/</loc></url>
+<url><loc>https://yoursite.qwik.dev/registro/</loc></url>
+<url><loc>https://yoursite.qwik.dev/recuperar-contrasena/</loc></url>
+<url><loc>https://yoursite.qwik.dev/talleres/agregar/</loc></url>
+<url><loc>https://yoursite.qwik.dev/talleres/lista/</loc></url>
+<url><loc>https://yoursite.qwik.dev/inscripciones/</loc></url>
+</urlset>

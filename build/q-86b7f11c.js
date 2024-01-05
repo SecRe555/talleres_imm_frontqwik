@@ -1,0 +1,1 @@
+import{m as e,v as t,_ as a}from"./q-b064d7f7.js";const o=e(t(()=>a(()=>import("./q-e5371fc6.js"),["build/q-e5371fc6.js","build/q-843b252d.js","build/q-b064d7f7.js"]),"s_7Wd3lNVz4eM")),r={title:"Recuperar contraseña",meta:[{name:"description",content:"Descripción"}]};export{o as default,r as head};
